@@ -1,0 +1,3 @@
+CREATE DATABASE example;
+
+CREATE TABLE user (id INT, name VARCHAR(30));
